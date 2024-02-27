@@ -1,4 +1,7 @@
 # Dahm_Paul_Project
+
+When viewing the files used for my project, the accurate files to view are the Dahm_Paul Presentation files!!
+
 Paper: DOES HEAD START IMPROVE CHILDREN’S LIFE CHANCES? EVIDENCE FROM A REGRESSION DISCONTINUITY DESIGN*
 
 Regression Equasion: Yc = m(Pc) + Gcα+δc
@@ -12,3 +15,4 @@ m(Pc) = an unknown smooth function of the poverty rate.
 δc = is the error term.
 
 Google Doc link: https://colab.research.google.com/drive/1d5_N1jlV8RmkVrlN1gAu9FzupArZNqgo#scrollTo=7sEeWRrm3oFY
+
