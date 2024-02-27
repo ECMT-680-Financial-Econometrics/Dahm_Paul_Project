@@ -11,4 +11,4 @@ c = poverty rate is above the cutoff for receiving grant-writing assistance, and
 m(Pc) = an unknown smooth function of the poverty rate.
 δc = is the error term.
 
-Google Doc link: https://colab.research.google.com/drive/1xzeQs-jLW-M3X1-njxxrqU2AB6w3YdSY#scrollTo=g5bSpT_uE_85
+Google Doc link: https://colab.research.google.com/drive/1d5_N1jlV8RmkVrlN1gAu9FzupArZNqgo#scrollTo=7sEeWRrm3oFY
