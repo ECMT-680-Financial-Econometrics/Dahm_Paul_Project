@@ -19,3 +19,5 @@ Google Doc link: https://colab.research.google.com/drive/1d5_N1jlV8RmkVrlN1gAu9F
 Presentation file link: https://www.overleaf.com/project/65de657371ddc7bf97d426a2
 
 Replication Study published in 2017: https://github.com/rdpackages-replication/CTV_2017_JPAM/blob/master/headstart.csv
+
+Finding Summary: Mortality Rates: The treatment effect of Head Start on mortality rates for children aged 5-9 years is estimated to be -2.095 for related causes, -6.210 for injuries, and -13.026 for all causes, with p-values of 0.459, 0.680, and 0.504, respectively. These results suggest a reduction in mortality rates, although they are not statistically significant at conventional levels.
