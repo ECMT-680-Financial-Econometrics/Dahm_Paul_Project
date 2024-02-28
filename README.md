@@ -18,4 +18,4 @@ Google Doc link: https://colab.research.google.com/drive/1d5_N1jlV8RmkVrlN1gAu9F
 
 Presentation file link: https://www.overleaf.com/project/65de657371ddc7bf97d426a2
 
-Replication Study published in 2017
+Replication Study published in 2017: https://github.com/rdpackages-replication/CTV_2017_JPAM/blob/master/headstart.csv
